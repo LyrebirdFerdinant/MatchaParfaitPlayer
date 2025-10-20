@@ -1,4 +1,4 @@
-const cacheName = "Lyrebird Ferdinant-MatchaParfait-1.0.1";
+const cacheName = "Lyrebird Ferdinant-MatchaParfait-1.0.2";
 const contentToCache = [
     "Build/MatchaParfait_Build.loader.js",
     "Build/MatchaParfait_Build.framework.js.unityweb",
